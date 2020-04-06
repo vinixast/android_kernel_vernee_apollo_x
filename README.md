@@ -1,1 +1,0 @@
-# android_kernel_vernee_apollo_x
